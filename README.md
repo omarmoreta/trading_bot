@@ -64,8 +64,8 @@ In this section, you’ll use the original parameters that the starter code prov
 
 In the previous sections, you updated your `README.md` file with your conclusions. To accomplish this section, you need to add a summary evaluation report at the end of the `README.md` file. For this report, express your final conclusions and analysis. Support your findings by using the PNG images that you created.
 
-![support vector machine (SVM)](./Resources/original_baseline.jpg)
+![support vector machine (SVM)](./Resources/original_baseline.JPG)
 
-![Logistic Regression](./Resources/second_model.jpg)
+![Logistic Regression](./Resources/second_model.JPG)
 
 Both of the models could have improved the precision but the first model had a better recall than the second model. I think that the baseline model performed alot better than the logistic regression model when it came to predicting signals based on the trainig data. The first model seemed to make better predictions as seen by the chart comparing the strategy returns vs actual returns. The second model seemed to make some inverse predictions close to the end of 2018 and 21.
